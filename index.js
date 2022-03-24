@@ -1,5 +1,5 @@
 function toca(som){
-    var i = document.querySelector(som).play()
+    document.querySelector(som).play()
 }
 
 
