@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "..\\..\\..\\Downloads\\aluramidi-curso-arquivos-iniciais\\aluramidi-curso-arquivos-iniciais\\images"
+		},
+		{
+			"name": "Javascript_para_web_alura",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "..\\..\\..\\Downloads\\aluramidi-curso-arquivos-iniciais\\aluramidi-curso-arquivos-iniciais\\sounds"
+		},
+		{
+			"name": "css",
+			"path": "..\\..\\..\\Downloads\\aluramidi-curso-arquivos-iniciais\\aluramidi-curso-arquivos-iniciais\\css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript_para_web_alura"
+	}
+}
